@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyAndroidLibrary</string>
+    <string name="hello">Hello from Library</string>
+    <string name="click_btn">Click Button</string>
+</resources>
